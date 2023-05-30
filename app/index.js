@@ -38,8 +38,8 @@ const Home = () => {
 					}}
 				>
 					<Welcome />
-					<Popularjobs></Popularjobs>
-					<Nearbyjobs></Nearbyjobs>
+					<Popularjobs />
+					<Nearbyjobs />
 				</View>
 			</ScrollView>
 		</SafeAreaView>
